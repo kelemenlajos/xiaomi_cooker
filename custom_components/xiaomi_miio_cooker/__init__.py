@@ -32,6 +32,7 @@ MODEL_NORMAL2 = "chunmi.cooker.normal2"
 MODEL_NORMAL3 = "chunmi.cooker.normal3"
 MODEL_NORMAL4 = "chunmi.cooker.normal4"
 MODEL_NORMAL5 = "chunmi.cooker.normal5"
+MODEL_NORMAL6 = "chunmi.cooker.r401"
 
 SUPPORTED_MODELS = [
     MODEL_PRESSURE1,
@@ -41,6 +42,7 @@ SUPPORTED_MODELS = [
     MODEL_NORMAL3,
     MODEL_NORMAL4,
     MODEL_NORMAL5,
+    MODEL_NORMAL6,
 ]
 
 CONFIG_SCHEMA = vol.Schema(
